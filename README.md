@@ -9,7 +9,7 @@ To examine, all you need to do is
 
 ```bash
 
-sh  run.sh
+sh run.sh
 
 ```
 
